@@ -14,11 +14,13 @@ _I've always been fascinated by the world of coding and programming. The ability
 
 _I love the process of problem-solving that coding offers. Whether it's crafting a responsive web interface or building immersive 3D experiences, I thrive on the satisfaction of finding elegant solutions to complex problems._
 
-_Programming is not just a profession for me; it's a passion. I'm constantly learning, exploring new technologies, and staying up-to-date with industry trends. This drive to keep improving and innovating is what fuels my enthusiasm for code._
+_Programming is not just a profession for me: it's a passion. I'm constantly learning. exploring new technologies and stay up-to-date with industry trends. This drive to keep improving and innovating is what fuels my enthusiasmo for code._
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=33&pause=29&color=AC31F7&repeat=false&width=435&lines=Skills)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vite,laravel,php,mysql,postman,vue,vscode,github,git,powershell,figma)](https://skillicons.dev) 
+
 ---
 
 May the Force be with you! 🌟
