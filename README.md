@@ -8,7 +8,7 @@
 - 👾 3D Artist 🎮
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=33&pause=29&color=AC31F7&center=true&repeat=false&width=435&lines=My+Passion+for+Code+and+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=33&pause=29&color=AC31F7&background=0F09FF00&repeat=false&width=435&lines=My+Passion+for+Code+and+Programming)](https://git.io/typing-svg)
 
 _I've always been fascinated by the world of coding and programming. The ability to bring ideas to life through lines of code is something that never ceases to amaze me. My journey as a Full Stack Web Developer and 3D Artist has been an exciting one, filled with challenges and opportunities for creativity._
 
