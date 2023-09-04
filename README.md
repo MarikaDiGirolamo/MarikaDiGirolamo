@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&color=AC31F7&center=true&repeat=false&width=435&lines=Hello+There%2C+I'm+Marika!)](https://git.io/typing-svg)
 ---
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,vscode)](https://skillicons.dev) 
+---
 
 
 May the Force be with you! 🌟
