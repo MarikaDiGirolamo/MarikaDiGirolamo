@@ -1,4 +1,4 @@
-#✨ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+There%2C+I'm+Marika!)](https://git.io/typing-svg)✨
+✨ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&color=AC31F7&center=true&repeat=false&width=435&lines=Hello+There%2C+I'm+Marika!)](https://git.io/typing-svg)✨
 ---
 
 
