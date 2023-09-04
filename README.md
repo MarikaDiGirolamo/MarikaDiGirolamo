@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=33&pause=29&color=AC31F7&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
-* 👩‍💻 Full Stack Web Developer
+* 💻 Full Stack Web Developer
 * 💼 Open To Job Opportunities
 * 👾 3D Artist 🎮
-
+* 🤓 Nerd
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=33&pause=29&color=AC31F7&background=0F09FF00&repeat=false&width=435&lines=My+Passion+for+Code+and+Programming)](https://git.io/typing-svg)
@@ -25,7 +25,7 @@ _Programming is not just a profession for me: it's a passion. I'm constantly lea
 
 ---
 
-May the Force be with you! 🌟
+*_May the Force be with you!_* 🌟
 
 <!--
 **MarikaDiGirolamo/MarikaDiGirolamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
