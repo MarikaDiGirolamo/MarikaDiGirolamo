@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=40&duration=33&pause=29&color=AC31F7&center=true&repeat=false&width=435&lines=Hello+There%2C+I'm+Marika!)](https://git.io/typing-svg)---
 
-![R2-D2](https://media.giphy.com/media/3o6ZsVQfFpeFYJWp6k/giphy.gif)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=40&duration=33&pause=29&color=AC31F7&center=true&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)
 
+-👩‍💻 Full Stack Web Developer
+-💼 Open To Job Opportunities
+-👾3D Artist 🎮
 ---
 
 ---
