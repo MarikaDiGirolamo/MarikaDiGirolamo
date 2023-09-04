@@ -2,9 +2,11 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=33&pause=29&color=AC31F7&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
-👩‍💻 Full Stack Web Developer
-💼 Open To Job Opportunities
-👾3D Artist 🎮
+
+
+- 👩‍💻 Full Stack Web Developer
+- 💼 Open To Job Opportunities
+- 👾 3D Artist 🎮
 ---
 
 ---
