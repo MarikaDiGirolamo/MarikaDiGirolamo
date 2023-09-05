@@ -27,7 +27,7 @@ _Programming is not just a profession for me: it's a passion. I'm constantly lea
 
 *_May the Force be with you!_* 🌟
 
-![](https://giphy.com/gifs/star-wars-gif-may-the-force-be-with-you-dnIsXwv78BC4U.gif)
+[![](https://giphy.com/gifs/star-wars-gif-may-the-force-be-with-you-dnIsXwv78BC4U.gif)
 
 <!--
 **MarikaDiGirolamo/MarikaDiGirolamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
