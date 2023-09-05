@@ -27,7 +27,6 @@ _Programming is not just a profession for me: it's a passion. I'm constantly lea
 
 *_May the Force be with you!_* 🌟
 
-![](may-the-force-be-with-you.gif)
 
 <!--
 **MarikaDiGirolamo/MarikaDiGirolamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
