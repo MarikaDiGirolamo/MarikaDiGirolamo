@@ -16,7 +16,7 @@ _I've always been fascinated by the world of coding and programming. The ability
 
 _I love the process of problem-solving that coding offers. Whether it's crafting a responsive web interface or building immersive 3D experiences, I thrive on the satisfaction of finding elegant solutions to complex problems._
 
-_Programming is not just a profession for me: it's a passion. I'm constantly learning. exploring new technologies and stay up-to-date with industry trends. This drive to keep improving and innovating is what fuels my enthusiasm for code._
+_Programming is not just a profession for me: it's a passion. I'm constantly learning, exploring new technologies and stay up-to-date with industry trends. This drive to keep improving and innovating is what fuels my enthusiasm for code._
 
 ---
 
