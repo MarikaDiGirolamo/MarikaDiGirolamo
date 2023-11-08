@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=33&pause=29&color=AC31F7&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
-🌟 💻 Back-End Developer
-🌟 🎮 Gamer 
-🌟 👾 3D Artist 
-🌟 🤓 Nerd
+ 💻 Back-End Developer
+ 🎮 Gamer 
+ 👾 3D Artist 
+ 🤓 Nerd
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=33&pause=29&color=AC31F7&background=0F09FF00&repeat=false&width=435&lines=My+Passion+for+Code+and+Programming)](https://git.io/typing-svg)
