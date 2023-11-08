@@ -27,6 +27,8 @@ _Programming is not just a profession for me: it's a passion. I'm constantly lea
 
 ---
 
+![](https://github.com/MarikaDiGirolamo/MarikaDiGirolamo/blob/main/4e37be122dba39b367e11d47d1dbbc31.gif)
+
 *_May the Force be with you!_* 🌟
 
 
